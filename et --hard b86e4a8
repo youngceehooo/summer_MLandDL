@@ -1,0 +1,24 @@
+[33mb86e4a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32myzh[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mdbe70c3[m HEAD@{1}: commit: “提交日志”
+[33mb86e4a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32myzh[m[33m)[m HEAD@{2}: merge yzh: Fast-forward
+[33m939c852[m HEAD@{3}: checkout: moving from yzh to master
+[33mb86e4a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32myzh[m[33m)[m HEAD@{4}: commit: ‘提交信息’
+[33m939c852[m HEAD@{5}: checkout: moving from master to yzh
+[33m939c852[m HEAD@{6}: commit: Added a new feature
+[33m73f9adb[m HEAD@{7}: commit: 提交日志
+[33m2294e36[m HEAD@{8}: commit: Add .gitattributes file
+[33m0790a82[m HEAD@{9}: commit: Add .gitattributes file
+[33m1f6f330[m HEAD@{10}: reset: moving to HEAD~8
+[33m354bd9c[m HEAD@{11}: commit: Update .gitattributes
+[33m6e8c5e7[m HEAD@{12}: commit: 提交信息
+[33m0b64868[m HEAD@{13}: commit: 提交信息
+[33m081f583[m HEAD@{14}: commit: 提交信息
+[33m83dfde5[m HEAD@{15}: commit: 提交信息
+[33m7dc2daf[m HEAD@{16}: commit: Add disk image
+[33m1f43ee6[m HEAD@{17}: commit: Add disk image
+[33m2be9c29[m HEAD@{18}: commit: commit.msg
+[33m1f6f330[m HEAD@{19}: commit: Remove summer_MLandDL submodule
+[33m3aeb562[m HEAD@{20}: commit: Remove summer_MLandDL submodule
+[33m83b1309[m HEAD@{21}: commit: 提交日志
+[33m823822b[m HEAD@{22}: commit: 提交日志
+[33me4973d6[m HEAD@{23}: commit (initial): commit msg
